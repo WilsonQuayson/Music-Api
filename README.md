@@ -24,6 +24,6 @@ Follow these steps to run and test the API:
    The API will start on a local server (e.g., http://localhost:5000).
 
 3. Access Swagger UI:
-   Navigate to http://localhost:<port>/swagger (replace <port> with the actual port number shown in the console).
+   Navigate to http://localhost:"port"/swagger (replace "port" with the actual port number shown in the console).
    Use Swagger UI to explore and test the API endpoints.
 
